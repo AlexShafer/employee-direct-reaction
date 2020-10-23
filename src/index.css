@@ -1,0 +1,15 @@
+.container {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(110, 71, 104);
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.content {
+  background-image: url("./img/background.png");
+}
+
+.table {
+  background-color: rgb(110, 71, 104);
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
