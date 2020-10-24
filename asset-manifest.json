@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/employee-direct-reaction/static/css/main.4020688a.chunk.css",
+    "main.js": "/employee-direct-reaction/static/js/main.413667e8.chunk.js",
+    "main.js.map": "/employee-direct-reaction/static/js/main.413667e8.chunk.js.map",
+    "runtime-main.js": "/employee-direct-reaction/static/js/runtime-main.9783ef32.js",
+    "runtime-main.js.map": "/employee-direct-reaction/static/js/runtime-main.9783ef32.js.map",
+    "static/js/2.298b42e3.chunk.js": "/employee-direct-reaction/static/js/2.298b42e3.chunk.js",
+    "static/js/2.298b42e3.chunk.js.map": "/employee-direct-reaction/static/js/2.298b42e3.chunk.js.map",
+    "index.html": "/employee-direct-reaction/index.html",
+    "precache-manifest.490bf0039d1d4c80a59585d74025b7d1.js": "/employee-direct-reaction/precache-manifest.490bf0039d1d4c80a59585d74025b7d1.js",
+    "service-worker.js": "/employee-direct-reaction/service-worker.js",
+    "static/css/main.4020688a.chunk.css.map": "/employee-direct-reaction/static/css/main.4020688a.chunk.css.map",
+    "static/js/2.298b42e3.chunk.js.LICENSE.txt": "/employee-direct-reaction/static/js/2.298b42e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9783ef32.js",
+    "static/js/2.298b42e3.chunk.js",
+    "static/css/main.4020688a.chunk.css",
+    "static/js/main.413667e8.chunk.js"
+  ]
+}
