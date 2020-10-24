@@ -12,6 +12,8 @@ A React app that renders a table of random employees that can be sorted by name,
 
 ## Deployment
 
+https://still-journey-92553.herokuapp.com/
+
 ## Table of Contents
 
 * [Installation](#installation)
